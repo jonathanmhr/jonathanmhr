@@ -31,7 +31,7 @@ I am a web application development student <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I dedicate myself to studying JavaScript and Node.js.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-jonathan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jonathanmhr@gmail.com)
 
 ---
 
